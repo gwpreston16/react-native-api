@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-api",
+    "slug": "react-native-api",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-api"
+}
